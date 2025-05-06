@@ -30,7 +30,7 @@ dotnet test
 Objetivos
 El propósito de estos pequeños proyectos es:
 
-Practicar la metodología TDD
-Fortalecer habilidades en C# y .NET
-Demostrar buenas prácticas de desarrollo de software
-Explorar diferentes casos de uso y soluciones
+- Practicar la metodología TDD
+- Fortalecer habilidades en C# y .NET
+- Demostrar buenas prácticas de desarrollo de software
+- Explorar diferentes casos de uso y soluciones
