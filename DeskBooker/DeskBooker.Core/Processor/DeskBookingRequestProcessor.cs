@@ -7,6 +7,8 @@ namespace DeskBooker.Core.Processor
 
         public DeskBookingResult BookDesk(DeskBookingRequest request)
         {
+       
+
             return new DeskBookingResult()
             {
                 FirstName = request.FirstName,

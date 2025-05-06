@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeskBooker.Core.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6a1b031e64af8bcbe333a94721fb0e930f38fe1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a5714351a1a8ecfeb0d8285b2ecc79d55f8c484")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeskBooker.Core.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeskBooker.Core.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
