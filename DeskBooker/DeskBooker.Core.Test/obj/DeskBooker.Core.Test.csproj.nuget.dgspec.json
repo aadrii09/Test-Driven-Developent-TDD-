@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adrian.castrobeiro\\Downloads\\DeskBooker\\DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj": {}
+    "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adrian.castrobeiro\\Downloads\\DeskBooker\\DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj": {
+    "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adrian.castrobeiro\\Downloads\\DeskBooker\\DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj",
+        "projectUniqueName": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj",
         "projectName": "DeskBooker.Core.Test",
-        "projectPath": "C:\\Users\\adrian.castrobeiro\\Downloads\\DeskBooker\\DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj",
+        "projectPath": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj",
         "packagesPath": "C:\\Users\\adrian.castrobeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adrian.castrobeiro\\Downloads\\DeskBooker\\DeskBooker.Core.Test\\obj\\",
+        "outputPath": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

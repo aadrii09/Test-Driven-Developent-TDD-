@@ -1,32 +1,28 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Xunit;
 
 namespace DeskBooker.Core.Test.Processor
 {
-    internal class DeskBookingRequestProcessorTests
+    public class DeskBookingRequestProcessorTests
     {
         [Fact]
         public void ShouldReturnDeskBookingRequestValues()
         {
             // Arrange
-            var request = new DeskBookingRequest()
+            var request = new DeskBookingRequest
             {
                 FirstName = "Adrian",
                 LastName = "Castro",
                 Email = "adrian.castrobeiro@plexus.es",
-                Date = new DateTime(205, 1, 15),
+                Date = DateTime.Today
             };
+
             var processor = new DeskBookingRequestProcessor();
 
-
             // Act
-            DeskBookingResult result = processor.BookDesk(request);
+            var result = processor.BookDesk(request);
 
             // Assert
-            Assert.NotNull(result);
             Assert.Equal(request.FirstName, result.FirstName);
             Assert.Equal(request.LastName, result.LastName);
             Assert.Equal(request.Email, result.Email);

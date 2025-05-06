@@ -1,5 +1,4 @@
-﻿
-namespace DeskBooker.Core.Test.Processor
+﻿namespace DeskBooker.Core.Test.Processor
 {
     internal class DeskBookingRequestProcessor
     {
@@ -9,7 +8,13 @@ namespace DeskBooker.Core.Test.Processor
 
         internal DeskBookingResult BookDesk(DeskBookingRequest request)
         {
-            throw new NotImplementedException();
+            return new DeskBookingResult()
+            {
+                FirstName = request.FirstName,
+                LastName = request.LastName,
+                Email = request.Email,
+                Date = request.Date
+            };
         }
     }
 }
