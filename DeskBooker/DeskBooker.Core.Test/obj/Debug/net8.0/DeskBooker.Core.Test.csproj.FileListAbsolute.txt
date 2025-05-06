@@ -98,3 +98,6 @@ C:\Users\adrian.castrobeiro\Desktop\Test-Driven-Developent-TDD-\DeskBooker\DeskB
 C:\Users\adrian.castrobeiro\Desktop\Test-Driven-Developent-TDD-\DeskBooker\DeskBooker.Core.Test\obj\Debug\net8.0\DeskBooker.Core.Test.pdb
 C:\Users\adrian.castrobeiro\Desktop\Test-Driven-Developent-TDD-\DeskBooker\DeskBooker.Core.Test\obj\Debug\net8.0\DeskBooker.Core.Test.genruntimeconfig.cache
 C:\Users\adrian.castrobeiro\Desktop\Test-Driven-Developent-TDD-\DeskBooker\DeskBooker.Core.Test\obj\Debug\net8.0\ref\DeskBooker.Core.Test.dll
+C:\Users\adrian.castrobeiro\Desktop\Test-Driven-Developent-TDD-\DeskBooker\DeskBooker.Core.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_DeskBooker.Core.Test
+C:\Users\adrian.castrobeiro\Desktop\Test-Driven-Developent-TDD-\DeskBooker\DeskBooker.Core.Test\bin\Debug\net8.0\DeskBooker.Core.dll
+C:\Users\adrian.castrobeiro\Desktop\Test-Driven-Developent-TDD-\DeskBooker\DeskBooker.Core.Test\bin\Debug\net8.0\DeskBooker.Core.pdb

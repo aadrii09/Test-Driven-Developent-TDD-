@@ -1,6 +1,6 @@
-﻿namespace DeskBooker.Core.Test.Processor
+﻿namespace DeskBooker.Core.Domain
 {
-    internal class DeskBookingResult
+ public class DeskBookingRequest
     {
         public required string FirstName { get; set; }
         public required string LastName { get; set; }

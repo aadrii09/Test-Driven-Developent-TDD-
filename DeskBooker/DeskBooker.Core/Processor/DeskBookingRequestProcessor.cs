@@ -1,12 +1,11 @@
-﻿namespace DeskBooker.Core.Test.Processor
-{
-    internal class DeskBookingRequestProcessor
-    {
-        public DeskBookingRequestProcessor()
-        {
-        }
+﻿using DeskBooker.Core.Domain;
 
-        internal DeskBookingResult BookDesk(DeskBookingRequest request)
+namespace DeskBooker.Core.Processor
+{
+    public class DeskBookingRequestProcessor
+    {
+
+        public DeskBookingResult BookDesk(DeskBookingRequest request)
         {
             return new DeskBookingResult()
             {

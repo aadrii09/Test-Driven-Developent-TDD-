@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DeskBooker.Core.Test")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DeskBooker.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6a1b031e64af8bcbe333a94721fb0e930f38fe1")]
-[assembly: System.Reflection.AssemblyProductAttribute("DeskBooker.Core.Test")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DeskBooker.Core.Test")]
+[assembly: System.Reflection.AssemblyProductAttribute("DeskBooker.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DeskBooker.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

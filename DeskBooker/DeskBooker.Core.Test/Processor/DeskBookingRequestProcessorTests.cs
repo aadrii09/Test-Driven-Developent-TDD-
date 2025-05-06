@@ -1,5 +1,7 @@
 ﻿using System;
 using Xunit;
+using DeskBooker.Core.Domain;
+using DeskBooker.Core.Processor;
 
 namespace DeskBooker.Core.Test.Processor
 {
