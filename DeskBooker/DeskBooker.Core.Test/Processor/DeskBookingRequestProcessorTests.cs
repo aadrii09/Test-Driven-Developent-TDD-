@@ -7,6 +7,12 @@ namespace DeskBooker.Core.Test.Processor
 {
     public class DeskBookingRequestProcessorTests
     {
+        private readonly DeskBookingRequestProcessor _processor;
+
+        public DeskBookingRequestProcessorTests()
+        {
+             this._processor = new DeskBookingRequestProcessor();
+        }
         [Fact]
         public void ShouldReturnDeskBookingRequestValues()
         {
@@ -19,10 +25,9 @@ namespace DeskBooker.Core.Test.Processor
                 Date = DateTime.Today
             };
 
-            var processor = new DeskBookingRequestProcessor();
 
             // Act
-            var result = processor.BookDesk(request);
+            var result = this._processor.BookDesk(request);
 
             // Assert
             Assert.Equal(request.FirstName, result.FirstName);
@@ -34,9 +39,8 @@ namespace DeskBooker.Core.Test.Processor
         [Fact]
         public void ShouldThrowExceptionWhenRequestIsNull()
         {
-            var processor = new DeskBookingRequestProcessor();
 
-            var exception = Assert.Throws<ArgumentNullException>(() => processor.BookDesk(null));
+            var exception = Assert.Throws<ArgumentNullException>(() => this._processor.BookDesk(null));
 
             Assert.Equal("request", exception.ParamName);
         }
