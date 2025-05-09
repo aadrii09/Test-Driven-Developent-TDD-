@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core\\processor\\deskbookingrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|solutionrelative:deskbooker.core\\processor\\deskbookingrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCF09AC3-98AB-4470-8A25-271452BF0B51}|DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core.test\\processor\\deskbookingrequestprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF09AC3-98AB-4470-8A25-271452BF0B51}|DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj|solutionrelative:deskbooker.core.test\\processor\\deskbookingrequestprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core\\domain\\deskbookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|solutionrelative:deskbooker.core\\domain\\deskbookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core\\domain\\deskbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|solutionrelative:deskbooker.core\\domain\\deskbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core\\datainterface\\ideskbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|solutionrelative:deskbooker.core\\datainterface\\ideskbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core\\processor\\deskbookingrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|solutionrelative:deskbooker.core\\processor\\deskbookingrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core\\domain\\deskbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|solutionrelative:deskbooker.core\\domain\\deskbookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core\\domain\\deskbookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|solutionrelative:deskbooker.core\\domain\\deskbookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core\\domain\\deskbookingbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|solutionrelative:deskbooker.core\\domain\\deskbookingbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF09AC3-98AB-4470-8A25-271452BF0B51}|DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core.test\\processor\\deskbookingrequestprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF09AC3-98AB-4470-8A25-271452BF0B51}|DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj|solutionrelative:deskbooker.core.test\\processor\\deskbookingrequestprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core\\datainterface\\ideskbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D363062B-51A4-4E2B-97DD-94CDB3256925}|DeskBooker.Core\\DeskBooker.Core.csproj|solutionrelative:deskbooker.core\\datainterface\\ideskbookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCF09AC3-98AB-4470-8A25-271452BF0B51}|DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core.test\\deskbooker.core.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DCF09AC3-98AB-4470-8A25-271452BF0B51}|DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj|solutionrelative:deskbooker.core.test\\deskbooker.core.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCF09AC3-98AB-4470-8A25-271452BF0B51}|DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj|c:\\users\\adrian.castrobeiro\\desktop\\test-driven-developent-tdd-\\deskbooker\\deskbooker.core.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF09AC3-98AB-4470-8A25-271452BF0B51}|DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj|solutionrelative:deskbooker.core.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,19 +74,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "DeskBookingBase.cs",
+              "DocumentMoniker": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Domain\\DeskBookingBase.cs",
+              "RelativeDocumentMoniker": "DeskBooker.Core\\Domain\\DeskBookingBase.cs",
+              "ToolTip": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Domain\\DeskBookingBase.cs",
+              "RelativeToolTip": "DeskBooker.Core\\Domain\\DeskBookingBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:50:21.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DeskBooking.cs",
               "DocumentMoniker": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Domain\\DeskBooking.cs",
               "RelativeDocumentMoniker": "DeskBooker.Core\\Domain\\DeskBooking.cs",
               "ToolTip": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Domain\\DeskBooking.cs",
               "RelativeToolTip": "DeskBooker.Core\\Domain\\DeskBooking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T10:57:00.738Z"
+              "WhenOpened": "2025-05-06T10:57:00.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IDeskBookingRepository.cs",
               "DocumentMoniker": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\DataInterface\\IDeskBookingRepository.cs",
               "RelativeDocumentMoniker": "DeskBooker.Core\\DataInterface\\IDeskBookingRepository.cs",
@@ -94,48 +108,51 @@
               "RelativeToolTip": "DeskBooker.Core\\DataInterface\\IDeskBookingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T10:55:53.603Z"
+              "WhenOpened": "2025-05-06T10:55:53.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DeskBookingRequestProcessor.cs",
               "DocumentMoniker": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Processor\\DeskBookingRequestProcessor.cs",
               "RelativeDocumentMoniker": "DeskBooker.Core\\Processor\\DeskBookingRequestProcessor.cs",
               "ToolTip": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Processor\\DeskBookingRequestProcessor.cs",
               "RelativeToolTip": "DeskBooker.Core\\Processor\\DeskBookingRequestProcessor.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T08:50:55.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DeskBookingRequest.cs",
               "DocumentMoniker": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Domain\\DeskBookingRequest.cs",
               "RelativeDocumentMoniker": "DeskBooker.Core\\Domain\\DeskBookingRequest.cs",
               "ToolTip": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Domain\\DeskBookingRequest.cs",
               "RelativeToolTip": "DeskBooker.Core\\Domain\\DeskBookingRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:50:33.547Z"
+              "WhenOpened": "2025-05-06T08:50:33.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "DeskBookingResult.cs",
               "DocumentMoniker": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Domain\\DeskBookingResult.cs",
               "RelativeDocumentMoniker": "DeskBooker.Core\\Domain\\DeskBookingResult.cs",
               "ToolTip": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core\\Domain\\DeskBookingResult.cs",
               "RelativeToolTip": "DeskBooker.Core\\Domain\\DeskBookingResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:49:40.204Z"
+              "WhenOpened": "2025-05-06T08:49:40.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DeskBookingRequestProcessorTests.cs",
               "DocumentMoniker": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core.Test\\Processor\\DeskBookingRequestProcessorTests.cs",
               "RelativeDocumentMoniker": "DeskBooker.Core.Test\\Processor\\DeskBookingRequestProcessorTests.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DeskBooker.Core.Test.csproj",
               "DocumentMoniker": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj",
               "RelativeDocumentMoniker": "DeskBooker.Core.Test\\DeskBooker.Core.Test.csproj",
@@ -157,18 +174,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-06T07:32:14.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core.Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "DeskBooker.Core.Test\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\adrian.castrobeiro\\Desktop\\Test-Driven-Developent-TDD-\\DeskBooker\\DeskBooker.Core.Test\\UnitTest1.cs",
-              "RelativeToolTip": "DeskBooker.Core.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T07:31:22.227Z"
             }
           ]
         }
